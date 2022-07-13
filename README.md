@@ -108,9 +108,9 @@
     </td>
      <td align="center" width="96"> 
       <a href="#vigneshacker-tech" >
-        <img src="https://i.ibb.co/QXHcMvM/58481021cef1014c0b5e494b.png" width="48" height="48" alt="Mongo DB" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" width="48" height="48" alt="Postgresql" />
       </a>
-      <br>MongoDB
+      <br>Postgresql
     </td>
     <td align="center" width="96">
       <a href="#vigneshacker-tech">
