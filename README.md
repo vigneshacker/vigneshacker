@@ -1,8 +1,6 @@
 # :wave: Hello there! I'm Vignesh Nagarajan</h1>
 ### I am a Fullstack Developer in Chennai, India.
 
-![image](https://github-readme-stats.vercel.app/api?username=vigneshacker&show_icons=true&theme=react&count_private=true&include_all_commits=true)
-
 - :office: &nbsp;I'm currently working at **Chennai IN**
 - :speech_balloon: &nbsp;I like to talk about **Ruby** and **JavaScript** apart from my regular **Sales & Marketing**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help**
