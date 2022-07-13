@@ -138,7 +138,3 @@
 
 [linkedin]: https://www.linkedin.com/in/vigneshacker "LinkedIn"
 [twitter]: https://twitter.com/vigneshacker "Twitter"
-
-
-
-[![Vignesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=vigneshacker&theme=react-dark)](https://github.com/vigneshacker)
