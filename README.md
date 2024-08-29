@@ -46,12 +46,6 @@
       </a>
       <br>React JS
     </td>
-    <td align="center" width="96">
-      <a href="#vigneshacker-tech">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
   </tr>
   <tr>
     <td align="center"  width="96">
@@ -109,12 +103,6 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
       </a>
       <br>Figma
-    </td>
-    <td align="center" width="96">
-      <a href="#suhailakar-tech">
-        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
-      </a>
-      <br>Material ui
     </td>
     <td align="center" width="96"> 
       <a href="#vigneshacker-tech" >
