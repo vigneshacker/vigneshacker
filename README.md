@@ -56,9 +56,9 @@
     </td>
     <td align="center" width="96">
       <a href="#vigneshacker-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
+        <img src="https://icon.icepanel.io/Technology/png-shadow-512/Astro.png" width="48" height="48" alt="Astro" />
       </a>
-      <br>GraphQL
+      <br>Astro
     </td>
     <td align="center" width="96">
       <a href="#vigneshacker-tech" >
