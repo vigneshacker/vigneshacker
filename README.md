@@ -68,13 +68,13 @@
     </td>
      <td align="center" width="96">
       <a href="#vigneshacker-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" width="48" height="48" alt="Ruby" />
+        <img src="https://brandlogos.net/wp-content/uploads/2016/07/ruby-logo_brandlogos.net_vk3va.png" width="48" height="48" alt="Ruby" />
       </a>
       <br>Ruby
     </td>
      <td align="center" width="96">
       <a href="#vigneshacker-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1024px-Ruby_On_Rails_Logo.svg.png" width="48" height="48" alt="Ruby on Rails" />
+        <img src="https://icon.icepanel.io/Technology/svg/Ruby-on-Rails.svg" width="48" height="48" alt="Ruby on Rails" />
       </a>
       <br>Ruby on Rails
     </td>
@@ -94,7 +94,7 @@
     </td>
      <td align="center" width="96"> 
       <a href="#vigneshacker-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" width="48" height="48" alt="Postgresql" />
+        <img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" width="48" height="48" alt="Postgresql" />
       </a>
       <br>Postgresql
     </td>
