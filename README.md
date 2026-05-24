@@ -1,107 +1,39 @@
-# :wave: Hello there! I'm Vignesh Nagarajan
+<h1 align="center">Vignesh Nagarajan</h1>
 
-### Founder & solo dev at [Proquiro](https://proquiro.com), based in Chennai, India.
+<p align="center">
+  Founder of <a href="https://proquiro.com"><b>Proquiro</b></a> — land procurement software for Indian real estate developers.<br>
+  Based in Chennai, India. Solo dev, build-in-public.
+</p>
 
-- :house_with_garden: &nbsp;Building **[Proquiro](https://proquiro.com)** — a land procurement platform for real estate developers and infrastructure teams in India
-- :speech_balloon: &nbsp;I like to talk about **Ruby**, **Rails**, **Hotwire**, and the messy realities of **land records in Tamil Nadu**
-- :mailbox: &nbsp;Ask me about anything, I am happy to **help**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
-- :bird: &nbsp;Find me on **[X]**
+<p align="center">
+  <a href="https://proquiro.com"><img alt="Proquiro" src="https://img.shields.io/badge/proquiro.com-111?style=for-the-badge&logoColor=white"></a>
+  <a href="https://app.proquiro.com"><img alt="App" src="https://img.shields.io/badge/app.proquiro.com-1F6FEB?style=for-the-badge&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/vigneshacker"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/vigneshacker"><img alt="X" src="https://img.shields.io/badge/@vigneshacker-000?style=for-the-badge&logo=x&logoColor=white"></a>
+</p>
 
-<br>
+---
 
-## Favorite Tech
+### What I'm building
 
-> Tools, languages, and other things I work with day-to-day.
+**[Proquiro](https://proquiro.com)** is the land-acquisition system of record for Indian developers and infra teams — leads, field execution, title flow, pricing intelligence, and risk scoring (CRZ, reserve forest, eco-sensitive zones, burial grounds, waqf, Ramsar wetlands) wired straight to Tamil Nadu government data sources.
 
+- :hammer_and_wrench: &nbsp;Shipping every week. MVP closeout, paying pilots in TN.
+- :round_pushpin: &nbsp;Deep in TN land records (TNREGINET, TNGIS, HR&CE, eServices, RERA).
+- :chart_with_upwards_trend: &nbsp;Hiring nobody right now — but happy to compare notes with anyone building in proptech, govtech, or land records.
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <a href="#vigneshacker-tech">
-        <img src="https://brandlogos.net/wp-content/uploads/2016/07/ruby-logo_brandlogos.net_vk3va.png" width="48" height="48" alt="Ruby" />
-      </a>
-      <br>Ruby
-    </td>
-    <td align="center" width="96">
-      <a href="#vigneshacker-tech">
-        <img src="https://icon.icepanel.io/Technology/svg/Ruby-on-Rails.svg" width="48" height="48" alt="Ruby on Rails" />
-      </a>
-      <br>Ruby on Rails
-    </td>
-    <td align="center" width="96">
-      <a href="#vigneshacker-tech">
-        <img src="https://avatars.githubusercontent.com/u/97181410?s=200&v=4" width="48" height="48" alt="Hotwire" />
-      </a>
-      <br>Hotwire
-    </td>
-    <td align="center" width="96">
-      <a href="#vigneshacker-tech">
-        <img src="https://stimulus.hotwired.dev/assets/logo-d56062c4ab9b34d8259a31f56c91bcd24536f028fde04d670246c2b388353c61.svg" width="48" height="48" alt="Stimulus" />
-      </a>
-      <br>Stimulus
-    </td>
-    <td align="center" width="96">
-      <a href="#vigneshacker-tech">
-        <img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" width="48" height="48" alt="PostgreSQL" />
-      </a>
-      <br>PostgreSQL
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="#vigneshacker-tech">
-        <img src="https://postgis.net/brand.svg" width="48" height="48" alt="PostGIS" />
-      </a>
-      <br>PostGIS
-    </td>
-    <td align="center" width="96">
-      <a href="#vigneshacker-tech">
-        <img src="https://icon.icepanel.io/Technology/png-shadow-512/Astro.png" width="48" height="48" alt="Astro" />
-      </a>
-      <br>Astro
-    </td>
-    <td align="center" width="96">
-      <a href="#vigneshacker-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="48" height="48" alt="Tailwind CSS" />
-      </a>
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <a href="#vigneshacker-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#vigneshacker-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="#vigneshacker-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="#vigneshacker-tech">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" height="48" alt="Node JS" />
-      </a>
-      <br>Node JS
-    </td>
-    <td align="center" width="96">
-      <a href="#vigneshacker-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
-      </a>
-      <br>Figma
-    </td>
-  </tr>
-</table>
+### Stack I work in daily
 
+<p>
+  <img alt="Ruby on Rails" src="https://img.shields.io/badge/Rails_8-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white">
+  <img alt="Hotwire" src="https://img.shields.io/badge/Hotwire-FF3B00?style=for-the-badge&logo=hotwire&logoColor=white">
+  <img alt="PostgreSQL + PostGIS" src="https://img.shields.io/badge/PostgreSQL_+_PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img alt="Astro" src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white">
+</p>
 
-[linkedin]: https://www.linkedin.com/in/vigneshacker "LinkedIn"
-[x]: https://x.com/vigneshacker "X"
+### Reach out
+
+- :briefcase: &nbsp;**Pilots, sales, partnerships** — [LinkedIn](https://www.linkedin.com/in/vigneshacker)
+- :speech_balloon: &nbsp;**Anything else** — [X / @vigneshacker](https://x.com/vigneshacker)
