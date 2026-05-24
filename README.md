@@ -7,7 +7,6 @@
 
 <p align="center">
   <a href="https://proquiro.com"><img alt="Proquiro" src="https://img.shields.io/badge/proquiro.com-111?style=for-the-badge&logoColor=white"></a>
-  <a href="https://app.proquiro.com"><img alt="App" src="https://img.shields.io/badge/app.proquiro.com-1F6FEB?style=for-the-badge&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/vigneshacker"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://x.com/vigneshacker"><img alt="X" src="https://img.shields.io/badge/@vigneshacker-000?style=for-the-badge&logo=x&logoColor=white"></a>
 </p>
