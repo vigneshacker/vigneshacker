@@ -17,7 +17,7 @@
 
 **[Proquiro](https://proquiro.com)** is the land-acquisition system of record for Indian developers and infra teams — leads, field execution, title flow, pricing intelligence, and risk scoring (CRZ, reserve forest, eco-sensitive zones, burial grounds, waqf, Ramsar wetlands) wired straight to Tamil Nadu government data sources.
 
-**[ViewPatta](https://viewpatta.com)** helps people retrieve Tamil Nadu land records online. Built and operated by Quiro Tech Solutions, it is an independent service and is not affiliated with the government.
+**[View Patta](https://viewpatta.com)** helps people retrieve Tamil Nadu land records online. Built and operated by Quiro Tech Solutions, it is an independent service and is not affiliated with the government.
 
 - :hammer_and_wrench: &nbsp;Shipping every week. MVP closeout, paying pilots in TN.
 - :round_pushpin: &nbsp;Deep in TN land records (TNREGINET, TNGIS, HR&CE, eServices, RERA).
